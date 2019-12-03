@@ -1,7 +1,7 @@
-# Welcome to BRaIN Lab GitHub Presentation
+# Welcome to BRaIN Lab GitHub Presentation edit_Sam
 
 This is a basic **readme** file that will be shown automatically at the bottom of the folder that contains this file.
-**Note:** The redme file should be named as *`README.md`* to be able to see the contents in GitHub.
+**Note:** The readme file should be named as *`README.md`* to be able to see the contents in GitHub.
 
 ## what is markdown?
 If you examine the contents of the *README* file, you will see that titles, bold and italic faces, etc. are created using *markdowns*. In fact, *markdown* is a very popular method of text control, you can use it in Jupyter and even in Slack [with some exceptions](https://www.markdownguide.org/tools/slack/).
