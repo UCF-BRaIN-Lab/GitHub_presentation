@@ -11,3 +11,5 @@ Good question. Feel free to start a new text file on your desktop and write your
 
 ## what's next?
 Well, you can either do more research on *markdown* and its fascinating capabilities, look more into creating GitHub Wiki and documentation, or continue with the presentation.
+
+Sarah
